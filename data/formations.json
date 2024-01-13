@@ -1,0 +1,14 @@
+[
+  {
+    "name": "4-4-2",
+    "positions": ["gk", "rb", "lb", "rcb", "lcb", "lcm", "rcm", "lw", "rw", "rst", "lst"]
+  },
+  {
+    "name": "4-3-3",
+    "positions": ["gk", "rb", "lb", "rcb", "lcb", "cdm", "rm", "lm", "rf", "lf", "cf"]
+  },
+  {
+    "name": "3-4-3",
+    "positions": ["gk", "rcb", "cb", "lcb", "rwb", "lwb", "rcm", "lcm", "lst", "rst", "cf"]
+  }
+]

@@ -1,3 +1,207 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.compo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+  
+    @media screen and (min-width: 700px) {
+      flex-direction: row;
+    }
+  }
+  
+  .field {
+    display: flex;
+    color: white;
+    text-align: center;
+    max-width: 460px;
+    min-height: 500px;
+    justify-content: center;
+    font-weight: bold;
+  
+    .players {
+      display: grid;
+      color: white;
+      grid-template-columns: repeat(5, 1fr);
+      grid-template-rows: auto;
+      grid-gap: 10px;
+      max-width: 420px;
+    }
+  
+    div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  
+      img {
+        margin: 0 auto
+      }
+    }
+  
+    &.bg-1 {
+      background-color: red;
+    }
+  
+    &.bg-2 {
+      background-image: url('../public/bg-2.jpeg');
+      background-repeat: no-repeat;
+      background-position: center;
+      width: 100%;
+      height: 100%;
+    }
+  
+    .position {
+      /* // goalkeeper */
+      &.gk {
+        grid-column: 3;
+        grid-row: 1;
+      }
+  
+      /* // right center back */
+      &.rcb {
+        grid-column: 2;
+        grid-row: 2;
+      }
+  
+      /* // center back */
+      &.cb {
+        grid-column: 3;
+        grid-row: 2;
+      }
+  
+      /* // left center back */
+      &.lcb {
+        grid-column: 4;
+        grid-row: 2;
+      }
+  
+      /* // right back */
+      &.rb {
+        grid-column: 1;
+        grid-row: 3;
+      }
+  
+      /* // left back */
+      &.lb {
+        grid-column: 5;
+        grid-row: 3;
+      }
+  
+      /* // left wing-back */
+      &.lwb {
+        grid-column: 5;
+        grid-row: 4;
+      }
+  
+      /* // right wing-back */
+      &.rwb {
+        grid-column: 1;
+        grid-row: 4;
+      }
+  
+      /* // right center midfield */
+      &.rcm {
+        grid-column: 2;
+        grid-row: 4;
+      }
+  
+      /* // center defensive midfield */
+      &.cdm {
+        grid-column: 3;
+        grid-row: 4;
+      }
+  
+      /* // left center midfield */
+      &.lcm {
+        grid-column: 4;
+        grid-row: 4;
+      }
+  
+      /* // right midfield */
+      &.rm {
+        grid-column: 2;
+        grid-row: 5;
+      }
+  
+      /* // left midfield */
+      &.lm {
+        grid-column: 4;
+        grid-row: 5;
+      }
+  
+      /* // center attacking midfielder */
+      &.cam {
+        grid-column: 3;
+        grid-row: 6;
+      }
+  
+      /* // right winger */
+      &.rw {
+        grid-column: 1;
+        grid-row: 6;
+      }
+  
+      /* // left winger */
+      &.lw {
+        grid-column: 5;
+        grid-row: 6;
+      }
+  
+      /* // right forward */
+      &.rf {
+        grid-column: 2;
+        grid-row: 7;
+      }
+  
+      /* // left forward */
+      &.lf {
+        grid-column: 4;
+        grid-row: 7;
+      }
+  
+      /* // right striker */
+      &.rst {
+        grid-column: 2;
+        grid-row: 8;
+      }
+  
+      /* // left striker */
+      &.lst {
+        grid-column: 4;
+        grid-row: 8;
+      }
+  
+      /* // center forward */
+      &.cf {
+        grid-column: 3;
+        grid-row: 8;
+      }
+    }
+  }
+  
+  .player {
+    position: relative;
+
+    .info {
+      display: flex;
+      flex-direction: row;
+      font-size: 10px;
+  
+      .number {
+        background: #9a0200;
+        flex: 0;
+        padding: 4px 2px;
+      }
+  
+      .name {
+        background: #000f27;
+        padding: 4px;
+        width: 100%;
+      }
+    }
+  }
+  

@@ -1,0 +1,234 @@
+[
+    {
+      "firstname": "Keylor",
+      "lastname": "Navas",
+      "fullname": "Keylor Navas",
+      "position": "Gardien",
+      "image": "/players/k.navas.png",
+      "number": 1
+    },
+    {
+      "firstname": "Alexandre",
+      "lastname": "Letellier",
+      "fullname": "Alexandre Letellier",
+      "position": "Gardien",
+      "image": "/players/a.letellier.png",
+      "number": 30
+    },
+    {
+      "firstname": "Arnau",
+      "lastname": "Tenas",
+      "fullname": "Arnau Tenas",
+      "position": "Gardien",
+      "image": "/players/a.tenas.png",
+      "number": 80
+    },
+    {
+      "firstname": "Gianluigi",
+      "lastname": "Donnarumma",
+      "fullname": "Gianluigi Donnarumma",
+      "position": "Gardien",
+      "image": "/players/g.donnarumma.png",
+      "number": 99
+    },
+    {
+      "firstname": "Achraf",
+      "lastname": "Hakimi",
+      "fullname": "Achraf Hakimi",
+      "position": "Défenseur",
+      "image": "/players/a.hakimi.png",
+      "number": 2
+    },
+    {
+      "firstname": "Presnel",
+      "lastname": "Kimpembe",
+      "fullname": "Presnel Kimpembe",
+      "position": "Défenseur",
+      "image": "/players/p.kimpembe.png",
+      "number": 3
+    },
+    {
+      "firstname": "",
+      "lastname": "Marquinhos",
+      "fullname": "Marquinhos",
+      "position": "Défenseur",
+      "image": "/players/marquinhos.png",
+      "number": 5
+    },
+    {
+      "firstname": "Danilo",
+      "lastname": "Pereira",
+      "fullname": "Danilo Pereira",
+      "position": "Défenseur",
+      "image": "/players/danilo.png",
+      "number": 15
+    },
+    {
+      "firstname": "Lucas",
+      "lastname": "Hernandez",
+      "fullname": "Lucas Hernandez",
+      "position": "Défenseur",
+      "image": "/players/l.hernandez.png",
+      "number": 21
+    },
+    {
+      "firstname": "Nuno",
+      "lastname": "Mendes",
+      "fullname": "Nuno Mendes",
+      "position": "Défenseur",
+      "image": "/players/n.mendes.png",
+      "number": 35
+    },
+    {
+      "firstname": "Nordi",
+      "lastname": "Mukiele",
+      "fullname": "Nordi Mukiele",
+      "position": "Défenseur",
+      "image": "/players/n.mukiele.png",
+      "number": 26
+    },
+    {
+      "firstname": "Lucas",
+      "lastname": "Beraldo",
+      "fullname": "Lucas Beraldo",
+      "position": "Défenseur",
+      "image": "/players/l.beraldo.png",
+      "number": 35
+    },
+    {
+      "firstname": "Milan",
+      "lastname": "Škriniar",
+      "fullname": "Milan Škriniar",
+      "position": "Défenseur",
+      "image": "/players/m.skriniar.png",
+      "number": 37
+    },
+    {
+      "firstname": "Layvin",
+      "lastname": "Kurzawa",
+      "fullname": "Layvin Kurzawa",
+      "position": "Défenseur",
+      "image": "/players/l.kurzawa.png",
+      "number": 97
+    },
+    {
+      "firstname": "Manuel",
+      "lastname": "Ugarte",
+      "fullname": "Manuel Ugarte",
+      "position": "Milieu",
+      "image": "/players/m.ugarte.png",
+      "number": 4
+    },
+    {
+      "firstname": "Fabian",
+      "lastname": "Ruiz",
+      "fullname": "Fabian Ruiz",
+      "position": "Milieu",
+      "image": "/players/f.ruiz.png",
+      "number": 8
+    },
+    {
+      "firstname": "",
+      "lastname": "Vitinha",
+      "fullname": "Vitinha",
+      "position": "Milieu",
+      "image": "/players/vitinha.png",
+      "number": 17
+    },
+    {
+      "firstname": "Lee",
+      "lastname": "Kang-in",
+      "fullname": "Kang-in Lee",
+      "position": "Milieu",
+      "image": "/players/k.lee.png",
+      "number": 19
+    },
+    {
+      "firstname": "Cher",
+      "lastname": "Ndour",
+      "fullname": "Cher Ndour",
+      "position": "Milieu",
+      "image": "/players/c.ndour.png",
+      "number": 27
+    },
+    {
+      "firstname": "Carlos",
+      "lastname": "Soler",
+      "fullname": "Carlos Soler",
+      "position": "Milieu",
+      "image": "/players/c.soler.png",
+      "number": 28
+    },
+    {
+      "firstname": "Warren",
+      "lastname": "Zaïre-Emery",
+      "fullname": "Warren Zaïre-Emery",
+      "position": "Milieu",
+      "image": "/players/w.z-e.png",
+      "number": 33
+    },
+    {
+      "firstname": "Ethan",
+      "lastname": "Mbappé",
+      "fullname": "Ethan Mbappé",
+      "position": "Milieu",
+      "image": "/players/e.mbappe.png",
+      "number": 38
+    },
+    {
+      "firstname": "Kylian",
+      "lastname": "Mbappé",
+      "fullname": "Kylian Mbappé",
+      "position": "Attaquant",
+      "image": "/players/k.mbappe.png",
+      "number": 7
+    },
+    {
+      "firstname": "Gonçalo",
+      "lastname": "Ramos",
+      "fullname": "Gonçalo Ramos",
+      "position": "Attaquant",
+      "image": "/players/g.ramos.png",
+      "number": 9
+    },
+    {
+      "firstname": "Ousmane",
+      "lastname": "Dembélé",
+      "fullname": "Ousmane Dembélé",
+      "position": "Attaquant",
+      "image": "/players/o.dembele.png",
+      "number": 10
+    },
+    {
+      "firstname": "Marco",
+      "lastname": "Asensio",
+      "fullname": "Marco Asensio",
+      "position": "Attaquant",
+      "image": "/players/m.asensio.png",
+      "number": 11
+    },
+    {
+      "firstname": "Randal",
+      "lastname": "Kolo Muani",
+      "fullname": "Randal Kolo Muani",
+      "position": "Attaquant",
+      "image": "/players/r.k-m.png",
+      "number": 23
+    },
+    {
+      "firstname": "Bradley",
+      "lastname": "Barcola",
+      "fullname": "Bradley Barcola",
+      "position": "Attaquant",
+      "image": "/players/b.barcola.png",
+      "number": 29
+    },
+    {
+      "firstname": "Hugo",
+      "lastname": "Ekitike",
+      "fullname": "Hugo Ekitike",
+      "position": "Attaquant",
+      "image": "/players/h.ekitike.png",
+      "number": 44
+    }
+  ]
